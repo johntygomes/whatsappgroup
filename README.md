@@ -9,8 +9,8 @@ Collects Unsaved Numbers From Whatsapp Groups.
 ## 2.Join Multiple Whatsapp Groups According To Your Niche And Pin The Group As The Topmost Chat.
 
 ## use function extractnumbers(sheet,row,groupname,xlfile) to start extracting numbers
-#Eg extractnumbers(0,1,"LockdownGroup","collectednumbers.xlsx")..will collect numbers from the topmost pinned group and store it in the collectednumbers.xlsx file from row 1 onwards
-#Each Cell On The Right Of the Number Will Display LockdownGroup.
+#Eg extractnumbers(0,1,"LockdownGroup","collectednumbers.xlsx")..will collect numbers from the topmost pinned group and store it in the collectednumbers.xlsx file from row 1 onwards.<br>
+#Each Cell On The Right Of the Number Will Display LockdownGroup.<br>
 #You Can Use The Collected Numbers For Any Kind Of Marketing.
 
 ## Developer Contact(Johnty Gomes)::
