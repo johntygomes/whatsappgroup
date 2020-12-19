@@ -20,4 +20,4 @@ Collects Unsaved Numbers From Whatsapp Groups.
 [FB](https://www.facebook.com/guitarical.guy.7/)
 [Linkedin](https://www.linkedin.com/in/johnty-g-315946b9/)
 [Youtube](https://www.youtube.com/c/GuitaricalMaster/)
-[Mail](mailto:johntygomes30@gmail.com)
+[Mail](mailto:natgomes7@gmail.com)
